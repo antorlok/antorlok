@@ -24,8 +24,6 @@ I consider myself a passionate lifelong learner and focus my work on the followi
 - 💻 **Development:** I have experience working with **Vue.js, Python, Java, and Go**, and I am currently learning and experimenting with **React**. 
 - 🚀 **Goal:** I currently dedicate my time to diving deep into various frameworks and the strengths of each language, always focused on fully understanding how to design optimal and efficient solutions.
 
-<br>
-
 <h2>🌐 Socials & Contact</h2>
 <p>
   <a href="https://github.com/antorlok" target="_blank">
@@ -45,8 +43,6 @@ I consider myself a passionate lifelong learner and focus my work on the followi
   </a>
 </p>
 
-<br>
-
 <h2>
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3l0cWxnMHdtc2lsYXV5bG9zMmQ5ZHgya3Jrdjc1Zng0a3NlbnRkbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pGnNhScvs9Udt1WSkA/giphy.gif" width="25px">
   Education
@@ -56,8 +52,6 @@ I consider myself a passionate lifelong learner and focus my work on the followi
 🎓 Computer Engineering<br/>
 📅 Currently <br/>
 ⏳ In progress 8/10.  
-
-<br>
 
 <h2>
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"> 
