@@ -12,11 +12,11 @@
   About Me
 </h2>
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="35%"/>
-
 I am a **Full-Stack Developer** and a **Computer Engineering** student at Universidad José Antonio Páez. 
 
 I consider myself a passionate lifelong learner and focus my work on the following pillars:
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="35%"/>
 
 - 🤖 **Interests:** I am highly interested in automation, Artificial Intelligence, and AI model management.
 - 🗣️ **Languages:** English and Spanish.
