@@ -110,8 +110,6 @@ I consider myself a passionate lifelong learner and focus my work on the followi
   <a href="https://opencode.ai/" target="_blank"><img src="https://img.shields.io/badge/OpenCode-4B32C3?style=for-the-badge"></a>
 </span>  
 
-<br>
-
 <h2>⚙️ Github Stats</h2> 
 
 <p align="center">
@@ -127,7 +125,6 @@ I consider myself a passionate lifelong learner and focus my work on the followi
 | :---: |
 | ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) | 
 
-<br>
 
 <div align="center">
    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=06b5c2&section=footer&reversal=true" />
