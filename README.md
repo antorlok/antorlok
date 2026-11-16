@@ -51,7 +51,7 @@ I consider myself a passionate lifelong learner and focus my work on the followi
 **Universidad José Antonio Páez (UJAP)** <br/>
 🎓 Computer Engineering<br/>
 📅 Currently <br/>
-⏳ In progress 8/10.  
+⏳ In progress 9/10.  
 
 <h2>
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"> 
